@@ -1,3 +1,3 @@
-module github.com/reasoll/MyWxSdk
+module MyWxSdk
 
 go 1.18
