@@ -1,4 +1,4 @@
-package MyWxSdk
+package WxSdk
 
 import (
 	"crypto/sha1"

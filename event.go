@@ -1,4 +1,4 @@
-package MyWxSdk
+package WxSdk
 
 // EventType 事件类型
 type EventType string
