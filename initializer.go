@@ -1,4 +1,4 @@
-package wx
+package MyWxSdk
 
 import (
 	"encoding/base64"

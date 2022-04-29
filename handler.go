@@ -1,4 +1,4 @@
-package wx
+package MyWxSdk
 
 // 各类消息处理器
 var (
