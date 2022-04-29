@@ -1,4 +1,4 @@
-package WxSdk
+package MyWxSdk
 
 // 微信支持的事件类型
 const (

@@ -1,4 +1,4 @@
-package WxSdk
+package MyWxSdk
 
 // RecvMsg 用户消息
 type RecvMsg interface{}

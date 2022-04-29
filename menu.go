@@ -1,4 +1,4 @@
-package WxSdk
+package MyWxSdk
 
 import (
 	"errors"
